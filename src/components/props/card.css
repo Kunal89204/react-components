@@ -1,0 +1,8 @@
+.red-line::before{
+    content: "";
+    width: 50px;
+    height: 0.1rem;
+    background: red;
+    position: absolute;
+    top: -10px;
+    }
